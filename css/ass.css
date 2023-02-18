@@ -11,7 +11,7 @@ body{
 }
 .tapbar{
     height: 50vh;
-    background: url(https://scontent.fdad5-1.fna.fbcdn.net/v/t39.30808-6/326177545_1135423533784309_7917425601198564390_n.png?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=SW5B_HabqeYAX_XaG9J&_nc_ht=scontent.fdad5-1.fna&oh=00_AfC7zbsbaZtkwMbLoPOZBiNas6BJByCAMbbHo35CHHx35A&oe=63EAD136) no-repeat center / cover;
+    background: url('../ing/bannermain.jfif') no-repeat center / cover;
     font-size: 25px;
     display: flex;
     justify-content: center;
